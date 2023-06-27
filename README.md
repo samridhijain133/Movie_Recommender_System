@@ -1,2 +1,7 @@
 # Movie_Recommender_System
-A movie recommender system tells you what movie/items are most similar to your movie choice. I tried making such a project with the help of pandas and python. Check it out!!
+The Movie Recommender System project is a personalized
+movie recommendation engine using popular librariesin Py‐
+thon, such as NumPy, Pandas, and Seaborn. This system
+analyzes user preferences and suggests movies based on
+their ratings.This project demonstrates proficiency in data
+manipulation, visualization, and machine learning concepts.
